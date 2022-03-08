@@ -5,5 +5,6 @@
 
 you can see my personal portfolio in htps://ianrosas.netlify.app
 
-
+Node.JS Sequelize PostgreSQL Python
+JavaScript React 
 
